@@ -23,7 +23,7 @@ module.exports = {
       host : '3.92.134.169',
       ref  : 'origin/master',
       repo : 'git@github.com:felipe-muner/pm2-deploy-ec2.git',
-      path : '/home/ubuntu',
+      path : '/home/ubu321321ntu',
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     }
   }
